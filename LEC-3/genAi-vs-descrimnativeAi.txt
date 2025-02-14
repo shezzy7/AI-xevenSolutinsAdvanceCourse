@@ -1,0 +1,10 @@
+Descrimnative AI:It is a bracnh of AI which belongs to making descrimnation between multiple things and giving the desired result from a set of input.For example we give a picture of an animal and ask an ai model to tell of which animal is this picture.So AI model will descrimnate it.Also if we a heap of potatoe to a robot and ask him to make grouping of these potatoes on their size basis.And he groups them such as it makes three groups of potatoes small,medium and bigger ones.So this is descrimnative AI.
+
+Generative AI: The field of AI which is related to generating some data according to given prompt.DAta can be in any formate like text,image etc.So it is related to creating.
+
+NLP :The process in which we apply concepts of AI on natural language is called natural language process.In this domain of ai we are concerned with textual methods like giving a command to a model in the form of text which understand this text and gives a specified output.
+
+Computer Vision : The field of AI in which we study the AI methods that solve the problems related to vision or video.These can be generative and descrimnative.For example if we ask a model to generate a picture of something then it will be in the concept of Computer vision and it is a generative.
+
+Speech Recongination : In this field of AI we apply AI methods that are concerned with voices/speech.For exaple the voice chatbot of chatgpt.It takes input in the form of voices gives the response in 
+

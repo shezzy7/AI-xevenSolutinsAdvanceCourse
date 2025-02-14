@@ -1,0 +1,3 @@
+
+LLM : A generative model of AI that generates text.
+Each large language model has a specific vocalbulary.Any GPT(generative pre-trainded tronsformer) will not generate any output out of this vocab.
