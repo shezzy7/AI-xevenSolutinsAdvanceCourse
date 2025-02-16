@@ -1,0 +1,6 @@
+Stable Diffusion is the name of a model which is in the domain of computer vision.This model help us in creating images according to the prompt that we give him.In term of physics,Diffusion means going from higher intensity to lower.
+
+Stable Diffusion models work on the basis of negative prompts.Negative prompt is the part of original prompt , but in it we tell the things that model should avoid.For example if we want to give a command to stable diffusion model and we know something model can do by itself but we want to avid than we can say it in nagative prompt section and model will avoid it at all.
+
+Forward Diffusion Process: The process in which some noise is added to original form of image.
+Reverse Diffusion Process : The process in which noise is removed from an already noised image.
