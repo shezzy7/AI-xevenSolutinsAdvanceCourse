@@ -1,0 +1,8 @@
+Be honest with client while writing code for a project.Tell him the best way of writing code(mean if he wants to do sharp work without taking other things in account then tell him about risks of doing this so that laterly if any problem occurs then you should be able to answer the client)   and also add documentation with code so that others can understand this code and also laterly if you want to make changes to that code,this would be easy for you to undrstand this.
+
+
+DevOps:- DevOps is a field in which websites are deployed on servers and then these servers are maintained so that server must not slows down and also preventing it from hackers.For this purpose big companies like facebool,google,amazone etc hire a large number of employees that are expert in devops for maintaining their servers.
+
+Server :- Server refers to the computer system that receives requests from client and send response.
+
+IP address :- Each server is present on a unique address which is called an IP address of that server.
